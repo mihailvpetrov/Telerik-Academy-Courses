@@ -10,7 +10,7 @@
 
 ### [02. Data Types and Variables](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/02.%20Data-Types-and-Variables/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/02. Data-Types-and-Variables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/02. Data-Types-and-Variables/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/02. Data-Types-and-Variables/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/VIDEOS.md)
 
 ### [03. Operators and Expressions](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/03.%20Operators-and-Expressions/index.html)
 
