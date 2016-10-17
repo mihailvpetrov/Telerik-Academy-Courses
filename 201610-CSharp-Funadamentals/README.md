@@ -6,7 +6,7 @@
 
 ### [01. Introduction to Programming](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/01.%20Introduction-to-Programming/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/homework)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Solutions](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/01.Introduction-To-Programming)
 
 ### [02. Data Types and Variables](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/02.%20Data-Types-and-Variables/index.html)
 
@@ -34,5 +34,5 @@
 
 ### [08. Exam Preparation](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/08.Exam-Preparations)
 
-### [09. Exam](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/Topics/09. Exam)
+### [09. Exam](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/09.Exam)
 
