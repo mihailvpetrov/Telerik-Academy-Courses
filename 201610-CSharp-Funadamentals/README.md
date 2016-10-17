@@ -32,7 +32,7 @@
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/07. Arrays/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/07. Arrays/homework)
 
-### [08. Exam Preparation](/Topics/08. Exam-Preparations)
+### [08. Exam Preparation](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/08.Exam-Preparations)
 
-### [09. Exam](/Topics/09. Exam)
+### [09. Exam](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/master/201610-CSharp-Funadamentals/Topics/09. Exam)
 
