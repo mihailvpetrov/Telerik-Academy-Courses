@@ -2,19 +2,19 @@
 
 ### [00. Course Introduction](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/00.%20Course-Intro/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/00.%20Course-Intro/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/00.%20Course-Intro/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master//Topics/00. Course-Intro/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/00.%20Course-Intro/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/00.%20Course-Intro/homework)
 
 ### [01. Introduction to Programming](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/01.%20Introduction-to-Programming/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/01. Introduction-to-Programming/homework)
 
 ### [02. Data Types and Variables](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/02.%20Data-Types-and-Variables/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework)
 
 ### [03. Operators and Expressions](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/03.%20Operators-and-Expressions/index.html)
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/03. Operators-and-Expressions/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/03. Operators-and-Expressions/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/03. Operators-and-Expressions/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/03. Operators-and-Expressions/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/03. Operators-and-Expressions/homework)
 
 ### [04. Console IO](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/04.%20Console-In-and-Out/index.html)
 
