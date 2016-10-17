@@ -1,8 +1,6 @@
 #   [C# Fundamentals](https://telerikacademy.com/Courses/Courses/Details/385)
 
-## Course program
-
-### [00. Course Introduction](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/00.%20Course-Intro/index.html)
+### [00. Course Introduction](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/00.%20Course-Intro/index.html#/)
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/00.%20Course-Intro/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master/Topics/00.%20Course-Intro/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](https://rawgit.com/TelerikAcademy/CSharp-Part-1/master//Topics/00. Course-Intro/VIDEOS.md)
 
