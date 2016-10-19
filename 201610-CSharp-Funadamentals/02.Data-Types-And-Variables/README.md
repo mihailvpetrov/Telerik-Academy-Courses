@@ -1,7 +1,4 @@
-Homework: Data Types and Variables
-==================================
-
-### [Homework: Data Types and Variables](http://bgcoder.com/Contests/313/CSharp-Fundamentals-02-Data-types-and-variables)
+# [Homework: Data Types and Variables](http://bgcoder.com/Contests/313/CSharp-Fundamentals-02-Data-types-and-variables)
 
 ### Problem List
 
