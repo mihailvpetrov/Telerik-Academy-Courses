@@ -4,7 +4,7 @@
 
 **October**
 - [ ] [C# Fundamentals](http://telerikacademy.com/Courses/Courses/Details/385)
-- [ ] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
+- [x] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
 
 **November**
 - [ ] C# Advanced
