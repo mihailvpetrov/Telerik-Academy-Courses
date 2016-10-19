@@ -39,8 +39,6 @@
 [//]: # (- [ ] Photoshop)
 [//]: # (- [ ] Slice And Dice)
 
-**May**
-
 ## Module 3
 
 **June**  
