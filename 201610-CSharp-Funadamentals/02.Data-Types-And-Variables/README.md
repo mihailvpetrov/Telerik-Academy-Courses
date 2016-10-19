@@ -1,25 +1,25 @@
 Homework: Data Types and Variables
 ==================================
 
-### [Submit homework in bgcoder](http://bgcoder.com/Contests/313/CSharp-Fundamentals-02-Data-types-and-variables)
+### [Homework: Data Types and Variables](http://bgcoder.com/Contests/313/CSharp-Fundamentals-02-Data-types-and-variables)
 
 ### Problem List
 
-1. [Declare Variables](./01. Declare Variables)
-1. [Float or Double](./02. Float or Double)
-1. [Variable in Hexadecimal Format](./03. Variable in Hexadecimal Format)
-1. [Unicode Character](./04. Unicode Character)
-1. [Boolean Variable](./05. Boolean Variable)
-1. [Strings and Objects](./06. Strings and Objects)
-1. [Quotes in Strings](./07. Quotes in Strings)
-1. [Isosceles Triangle](./08. Isosceles Triangle)
-1. [Exchange Variable Values](./09. Exchange Variable Values)
-1. [Employee Data](./10. Employee Data)
-1. [Bank Account Data](./11. Bank Account Data)
-1. [Null Values Arithmetic](./12. Null Values Arithmetic)
-1. [Comparing Floats](./13. Comparing Floats)
-1. [Print the ASCII Table](./14. Print the ASCII Table)
-1. [Look like a hacker](./15. Look like a hacker)
+1. [Declare Variables](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/01. Declare Variables)
+1. [Float or Double](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/02. Float or Double)
+1. [Variable in Hexadecimal Format](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/03. Variable in Hexadecimal Format)
+1. [Unicode Character](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/04. Unicode Character)
+1. [Boolean Variable](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/05. Boolean Variable)
+1. [Strings and Objects](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/06. Strings and Objects)
+1. [Quotes in Strings](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/07. Quotes in Strings)
+1. [Isosceles Triangle](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/08. Isosceles Triangle)
+1. [Exchange Variable Values](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/09. Exchange Variable Values)
+1. [Employee Data](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/10. Employee Data)
+1. [Bank Account Data](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/11. Bank Account Data)
+1. [Null Values Arithmetic](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/12. Null Values Arithmetic)
+1. [Comparing Floats](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/13. Comparing Floats)
+1. [Print the ASCII Table](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/14. Print the ASCII Table)
+1. [Look like a hacker](https://github.com/TelerikAcademy/CSharp-Part-1/tree/master/Topics/02. Data-Types-and-Variables/homework/15. Look like a hacker)
 
 ==================================
 
