@@ -3,12 +3,12 @@
 ## Module 1
 
 **October**
-- [ ] [C# Fundamentals](http://telerikacademy.com/Courses/Courses/Details/385)
-- [ ] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
+- [x] [C# Fundamentals](http://telerikacademy.com/Courses/Courses/Details/385)
+- [x] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
 
 **November**
-- [ ] C# Advanced
-- [ ] CSS Styling
+- [ ] [C# Advanced](http://telerikacademy.com/Courses/Courses/Details/398)
+- [ ] [CSS Styling](http://telerikacademy.com/Courses/Courses/Details/397)
 
 **December**
 - [ ] Object-oriented Programming
