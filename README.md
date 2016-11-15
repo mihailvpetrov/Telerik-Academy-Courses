@@ -3,12 +3,12 @@
 ## Module 1
 
 **October**
-- [x] [C# Fundamentals](http://telerikacademy.com/Courses/Courses/Details/385)
-- [x] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
+- [x] [C# Fundamentals](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/201611-CSharp-Advanced/201610-CSharp-Funadamentals)
+- [x] [HTML Basics](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/201611-CSharp-Advanced/201610-HTML-Basics)
 
 **November**
-- [ ] [C# Advanced](http://telerikacademy.com/Courses/Courses/Details/398)
-- [ ] [CSS Styling](http://telerikacademy.com/Courses/Courses/Details/397)
+- [ ] [C# Advanced](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/201611-CSharp-Advanced/201611-CSharp-Advanced)
+- [ ] [CSS Styling](https://github.com/mihailvpetrov/Telerik-Academy-Courses/tree/201611-CSharp-Advanced/201611-CSS-Styling)
 
 **December**
 - [ ] Object-oriented Programming
