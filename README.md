@@ -19,7 +19,8 @@
 **January**
 - [ ] Unit Testing
 - [ ] JavaScript OOP
-/*
+
+<!---
 **February**
 - [ ] High Quality Code - Part 1
 - [ ] JavaScript UI & DOM
@@ -45,4 +46,4 @@
 **July**  
 **August**  
 **September**
-*/
+-->
