@@ -18,11 +18,11 @@
 
 **January**
 - [ ] Unit Testing
-- [ ] JavaScript UI & DOM
-
+- [ ] JavaScript OOP
+/*
 **February**
 - [ ] High Quality Code - Part 1
-- [ ] JavaScript OOP
+- [ ] JavaScript UI & DOM
 
 **March**
 - [ ] High Quality Code - Part 2
@@ -45,3 +45,4 @@
 **July**  
 **August**  
 **September**
+*/
