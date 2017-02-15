@@ -17,8 +17,8 @@
 ## Module 2
 
 **January**
-- [ ] Unit Testing
-- [ ] JavaScript OOP
+- [ ] [Unit Testing](http://telerikacademy.com/Courses/Courses/Details/410)
+- [ ] [JavaScript OOP](http://telerikacademy.com/Courses/Courses/Details/411)
 
 <!---
 **February**
