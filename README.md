@@ -7,12 +7,12 @@
 - [x] [HTML Basics](https://telerikacademy.com/Courses/Courses/Details/386)
 
 **November**
-- [ ] [C# Advanced](http://telerikacademy.com/Courses/Courses/Details/398)
-- [ ] [CSS Styling](http://telerikacademy.com/Courses/Courses/Details/397)
+- [x] [C# Advanced](http://telerikacademy.com/Courses/Courses/Details/398)
+- [x] [CSS Styling](http://telerikacademy.com/Courses/Courses/Details/397)
 
 **December**
-- [ ] Object-oriented Programming
-- [ ] JavaScript Fundamentals
+- [x] [Object-oriented Programming](http://telerikacademy.com/Courses/Courses/Details/404)
+- [x] [JavaScript Fundamentals](http://telerikacademy.com/Courses/Courses/Details/406)
 
 ## Module 2
 
