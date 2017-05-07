@@ -1,5 +1,5 @@
 # Telerik Academy Courses
-
+<!---
 ## Module 1
 
 **October**
@@ -20,7 +20,7 @@
 - [ ] [Unit Testing](http://telerikacademy.com/Courses/Courses/Details/410)
 - [ ] [JavaScript OOP](http://telerikacademy.com/Courses/Courses/Details/411)
 
-<!---
+
 **February**
 - [ ] High Quality Code - Part 1
 - [ ] JavaScript UI & DOM
